@@ -1,6 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Lindsay Lopez",
+	"description": "Learning npm with FCC",
+	"keywords": ["freecodecamp", "practice", "learning", "npm"],
+	"license": "MIT",
+	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
